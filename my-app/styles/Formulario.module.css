@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    height: 50vh;
+    background-color: #ef7c8e;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.formularioTitulo {
+    padding: 5%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.formdescricao {
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+
+.input {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: none;
+    margin-top: 2%;
+    width: 20rem;
+    height: 30px;
+}
+
+.formularioButton {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: #f0f0f0;
+    color: #ef7c8e;
+    border: none;
+    cursor: pointer;
+    margin-top: 2%;
+    width: 8%;
+    height: 60px;
+}
